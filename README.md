@@ -5,7 +5,7 @@ The Language used for the project is C# mainly.
 This is the basic GUI of the project
 ![2021-04-23](https://user-images.githubusercontent.com/51732423/115803386-0c0bc880-a3e1-11eb-8364-7240fa985d01.png)
 
-
+This is the GAME OVER SCREEN.
 ![2021-04-23 (1)](https://user-images.githubusercontent.com/51732423/115803395-1037e600-a3e1-11eb-890e-9df1679db6e8.png)
 
 
